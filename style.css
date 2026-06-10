@@ -1,0 +1,46 @@
+body {
+    font-family: ui-monospace, monospace;
+    max-width: 600px;
+    margin: 60px auto;
+    padding: 0 20px;
+    background: #F7F8FA;
+    color: #18242F;
+  }
+
+h1 {
+    font-size: 64px;
+    margin: 0;
+  }
+
+p {
+    font-size: 18px;
+    color: #6B7785;
+    margin-top: 8px;
+  }
+
+  h2 {
+    margin-top: 48px;
+    font-size: 16px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #9AA4B0;
+  }
+
+ul {
+    list-style: none;
+    padding: 0;
+  }
+
+  li {
+    margin: 12px 0;
+  }
+
+a {
+    color: #FF6B5C;
+    text-decoration: none;
+    font-size: 18px;
+  }
+
+a:hover {
+    color: #FFB13C;
+  }
