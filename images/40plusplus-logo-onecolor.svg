@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 280" width="800" height="280" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">
+  <rect width="800" height="280" rx="24" fill="#F7F8FA" stroke="#E6E9EE"/>
+  <g transform="translate(183,79) scale(0.621)" color="#18242F">
+    <path d="M80 6 V176 M80 12 L8 118 M6 118 H104" fill="none" stroke="currentColor" stroke-width="26" stroke-linecap="round" stroke-linejoin="round"/>
+    <g transform="translate(150,0)">
+      <ellipse cx="55" cy="91" rx="49" ry="85" fill="none" stroke="currentColor" stroke-width="26"/>
+    </g>
+    <g transform="translate(300,0)">
+      <path d="M15 95 H95 M55 55 V135" fill="none" stroke="currentColor" stroke-width="26" stroke-linecap="round"/>
+    </g>
+    <g transform="translate(450,0)">
+      <path d="M15 95 H95 M55 55 V135" fill="none" stroke="currentColor" stroke-width="26" stroke-linecap="round"/>
+    </g>
+    <g transform="translate(600,0)">
+      <rect x="0" y="10" width="92" height="162" rx="16" fill="currentColor"/>
+    </g>
+  </g>
+</svg>
